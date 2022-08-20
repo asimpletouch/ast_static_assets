@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fvideos\u002Fsearch","\u002F","\u002Fvideos\u002F[videoSlug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
